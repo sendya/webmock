@@ -1,0 +1,15 @@
+.idea
+.vscode
+.DS_Store
+node_modules
+dist
+build
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+*.cache
+*.pyc
+.env
+
